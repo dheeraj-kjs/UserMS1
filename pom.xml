@@ -15,6 +15,9 @@
 	<description>User micro-service Springboot</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>dheeraj-kjs-1_UserMS1</sonar.projectKey>
+		<sonar.organization>dheeraj-kjs-1</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 	<dependencyManagement>
